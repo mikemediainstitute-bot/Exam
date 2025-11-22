@@ -1,4 +1,4 @@
-
+console.log(todolist);
 import "./style.css";
 import { todos } from "./todos";
 
@@ -53,5 +53,6 @@ function renderTodos() {
     todoList.appendChild(message);
   }
 }
+
 
 renderTodos();
