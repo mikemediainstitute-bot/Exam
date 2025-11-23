@@ -1,4 +1,4 @@
-console.log(todoList);
+
 import "./style.css";
 import { todos } from "./todos";
 
@@ -54,6 +54,4 @@ function renderTodos() {
   }
 }
 
-
 renderTodos();
-
